@@ -1,0 +1,27 @@
+{
+  "username": "permadipinterstyulianto",
+  "album": [
+    "wobbly"
+  ],
+  "init_jumlah_photo": 50,
+  "admob_banner_id": "ca-app-pub-3940256099942544/63009781112",
+  "admob_interstitial_id": "ca-app-pub-3940256099942544/10331737123",
+  "admob_native_id": "ca-app-pub-3940256099942544/22476961101",
+  "admob_rewarded_id": "",
+  "admob_rewarded_interstitial_id": "",
+  "admob_open_app_id": "ca-app-pub-3940256099942544/34198352945",
+  "admob_hpk_1": "",
+  "admob_hpk_2": "",
+  "admob_hpk_3": "",
+  "admob_hpk_4": "",
+  "admob_hpk_5": "",
+  "startapp_app_id": "",
+  "unity_id": "",
+  "unity_banner": "",
+  "unity_interstitial": "",
+  "interstitial_inverval": 4,
+  "list_ads": [
+    "ADMOB"
+   
+  ]
+}
